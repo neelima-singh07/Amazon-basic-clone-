@@ -10,6 +10,8 @@ Features
    1. Header: Includes the Amazon logo, search bar, and navigation links.
    2. Main Content: Showcases product categories and promotional banners.
    3. Footer: Contains additional links and information.
+
+      
 Technologies Used
    1.HTML5: For structuring the webpage.
    2.CSS3: For styling and layout.
