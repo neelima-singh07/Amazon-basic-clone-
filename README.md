@@ -3,7 +3,7 @@ A simple, beginner-level project replicating the main webpage of Amazon using HT
 
 
 Introduction
-   A minimalistic project recreating the basic structure and design of Amazon's homepage using HTML and CSS. This project serves as an introductory exercise in web development to practice layout creation and 
+   1. A minimalistic project recreating the basic structure and design of Amazon's homepage using HTML and CSS. This project serves as an introductory exercise in web development to practice layout creation and 
    styling.
 
 Features
